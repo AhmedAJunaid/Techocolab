@@ -1,1 +1,0 @@
-# Technocolab Data Engineering project
